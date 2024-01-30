@@ -4,7 +4,8 @@
 - ✏️ I’m currently learning **Data Analysis, Data Visualization, Data Modeling**
 
 - 👨‍💻 All of my projects are available at
-   1. (https://github.com/mey0112/project1)
+   1. https://github.com/mey0112/project1
+   2. https://github.com/mey0112/project2
 
 - 📫 How to reach me **mey9286@naver.com**
 
