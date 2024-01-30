@@ -3,7 +3,8 @@
 
 - ✏️ I’m currently learning **Data Analysis, Data Visualization, Data Modeling**
 
-- 👨‍💻 All of my projects are available at [링크입력](링크입력)
+- 👨‍💻 All of my projects are available at
+   1. (https://github.com/mey0112/project1)
 
 - 📫 How to reach me **mey9286@naver.com**
 
