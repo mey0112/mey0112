@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm EunYoung</h1>
+<h1 align="center">Hi, I'm EunYoung😊</h1>
 <h3 align="left">I'm dreaming of becoming a data analyst.🌱</h3>
 
 - 🌱 I’m currently learning **Data Analysis, Data Visualization, Data Modeling**
