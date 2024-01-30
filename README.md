@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm EunYoung😊</h1>
 <h3 align="left">I'm dreaming of becoming a data analyst.🌱</h3>
 
-- 🌱 I’m currently learning **Data Analysis, Data Visualization, Data Modeling**
+- ✏️ I’m currently learning **Data Analysis, Data Visualization, Data Modeling**
 
 - 👨‍💻 All of my projects are available at [링크입력](링크입력)
 
