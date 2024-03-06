@@ -8,7 +8,7 @@
    2. https://github.com/mey0112/project2
  
 - 🧻 All of my problem solving are available at
-   1. https://github.com/mey0112/problem_solving1
+   1. https://github.com/mey0112/problem-solving1
    2. https://github.com/mey0112/problem-solving2
    3. https://github.com/mey0112/problem-solving3
 
